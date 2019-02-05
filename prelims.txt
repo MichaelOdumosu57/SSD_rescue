@@ -1,0 +1,7 @@
+prelims
+I unscrewed the back in an attempt to open up the laptop motherboard
+    however the motherboard is smart and shut the computer down
+I thought I broke a cable but the power button is on the opposite side of where I tried to open the computer so I realized its smart
+    I powered it on and it hunged on ESC to access the BIOS menu
+Upon OS selection I saw that it could not see anything, I realized the connector attaching the SSD could be loose but to the scratching noises it could me that the hard drive has failed
+    I put all the bolts back (I placed them on plastic paper) and left the laptop top up turned off
