@@ -1,0 +1,108 @@
+2/6/19
+so I plugged the ac adaptor to give power to the laptop
+
+2/6/19 10:55pm
+I press power and Esc
+there is a long pause, then it asks to install an OS on my hard disk
+
+I run f2
+I choose Memory Test
+img: m_r_21
+I plug in AC adapter
+I noticed that its the advanced Hardware Diagnostics UEFI
+
+It passed
+
+
+on Hard Drive Check -i clicked quick check
+img:m_r_19
+the UEFI did not see the drive
+
+on extensive check I see that no hardrive installed as well
+
+I exited diagnostics
+
+I went to F10 and back nothing
+
+
+I placed the windows recovery tool into a usb port on the machine and hit f9
+img:m_r_20
+I attempted to boot from the USB, hopefully it has an MBR
+img:m_r_16
+I got the hp logo
+img:m_r_15
+now its loading
+
+I got to the windows recovery section
+I enter on the defualts
+I choose repair your computer
+
+    I choose turn off pc because I want to see what Gparted has to say about the drive
+
+I placed the gparted bootable and try to boot as regular
+i get that familar COMRESET failed error
+img:m_r_14
+other things came on the screen, but i didnt get it in time
+Gparted booted regular but it can't connect to the drive
+img:m_r_8
+
+I turned it off and placed ubuntu bootable instead
+I choose check disk for defects
+img:m_r_6
+
+it shows that comreset error but it is eventually able to access the /boot directory
+img:m_r_4
+    its moving
+    img:m_r_11,
+    it says check finished no errors found
+    img:m_r_10
+    i pressed to reboot the system
+
+I clicked try ubuntu without installing
+i get the COMRESET error but a lot less
+it goes ahead and boots into the bootable OS
+it probably rewrote the MBR it needs to boot
+I shutdown
+
+
+I place the usb bootable and boot again into windows recovery
+I quickly see I cannot so I go to command prompt
+im able to access C://but I see that C represents the bootable
+img:m_r_13
+I ran in the command prompt
+
+
+bootrec.exe /fixmbr
+    operation completed sucessfully
+bootrec.exe /rebuildbcd
+    0 installations
+img:m_r_0
+
+
+    https://www.youtube.com/watch?v=O6gB5Akuyms
+
+diskpart
+select disk
+disk vol
+exit
+
+img:m_r_2
+
+turned off PC
+
+in BIOS i reset the security defaults
+img:m_r_12
+and then loaded the setup defealts
+I reboot tried to escape from F10 now its booting into the main operatiing system
+It booted of then on again so ill give it a shock in an attempt to get the ssd back
+
+held power button for 10 seconds
+nothing its down and out
+
+I booted into linux
+nothing usuable
+img:m_r_3
+
+
+
+shutdown
