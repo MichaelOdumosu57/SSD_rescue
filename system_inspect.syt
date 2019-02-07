@@ -1,0 +1,557 @@
+__________ }}
+__________ }}}
+________ {{{{{{
+______ OOOOOOO
+____ OOOOOOOOOO______}
+___ OOOOOOOOOOOO_____{{
+__ OOOOOOOOOOOO_____(..)       User Guides
+_ OOOOOOOOOOOOOOO_____%       Regulatory, Safety, and Environmental Notices User Guide
+_ OOOOOOOOOOOOOOO____%
+__ OOOOOOOOOOOOOO___%
+___ OOOOOOOOOOOO
+____ OOOOOOOOOO
+
+
+On integrated wireless sometimes you have to turn it off devices
+
+
+_ OOOOOOOOOOOOOOO____%   1 Regulatory notices
+__ OOOOOOOOOOOOOO___%
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   Accessing regulatory labels
+______ OOOOOOO
+
+Regulatory labels can be found in the battery or in the BIOS
+
+US devices have a FCC ID
+
+they can be found at System BIOS
+F10 --> Advanced --> Electronic Labels
+
+
+__________ }}
+__________ }}}
+________ {{{{{{     FCC comission notice
+______ OOOOOOO
+
+this is a class B FCC tested device good for residential use, but its not guranteed for its generating radio waves to cause interference
+
+if the device bothers radio waves
+    move the antenna
+    or call the manufacturer
+    
+this device complies with part FCC rule 15
+
+    it cannot cause interference but must accept it
+    
+__________ }}
+__________ }}}
+________ {{{{{{     Modification
+______ OOOOOOO
+    
+modifying your laptop voids the warranty
+
+__________ }}
+__________ }}}
+________ {{{{{{     Cables
+______ OOOOOOO
+
+connections must be made with shielded cables having metallic RFI/EMI connector hoods.
+
+__________ }}
+__________ }}}
+________ {{{{{{     Products with wireless LAN devices or HP Mobile Broadband Modules
+______ OOOOOOO
+
+keep it away from an antenna or transmitter
+
+
++---------------------------------------------------+-----------------
+| Radio Technology Maximum Transmit Power EIRP (mW)                   |
++---------------------------------------------------+-----------------
+| Bluetooth               2.4 GHz 100
++-------------------------------------------- -------------------------
+| NFC                     13.56 MHz 10
++-------------------------------------------- -------------------------
+| RFID                    125 kHz/13.56 MHz Less than 1
++-------------------------------------------- -------------------------
+| WLAN Wi-Fi 802.11x      2.4 GHz 100
++-------------------------------------------- -------------------------
+| WLAN Wi-Fi 802.11x      5 GHz 200
++-------------------------------------------- -------------------------
+| WWAN 4G LTE             700/800/900/1800/2100/2300/2600/3500 MHz 200
++-------------------------------------------- -------------------------
+| WWAN 3G UTMS            900/2100 MHz 250
++-------------------------------------------- -------------------------
+| WWAN 2G GSM GPRS EDGE   900 MHz 2000
++-------------------------------------------- -------------------------
+| WWAN 2G GSM GPRS EDGE   1800 MHz 1000
++-------------------------------------------- -------------------------
+| WiGig 802.11ad          60 GHz 316
++---------------------------------------------------+------------------
+Use only HP-supported software drivers
+and correct country settings to ensure compliance.
+
+
+__________ }}
+__________ }}}
+________ {{{{{{    Ergonomics notice
+______ OOOOOOO
+
+when using a mobile computer for office display sometimes you need the  Visual Display Unit
+(VDU) Directive 90/270/EEC and an adequate external monitor and keyboard is required
+an HP computer is ergonomic if all parts are GS approved
+This applie to mobile and business computers
+    
+    
+__________ }}
+__________ }}}
+________ {{{{{{    Airline travel notice
+______ OOOOOOO
+    
+must ask airline
+
+__________ }}
+__________ }}}
+________ {{{{{{    User-replaceable battery notices
+______ OOOOOOO
+    
+must follow up on hp on how to replace regular batteries
+
+__________ }}
+__________ }}}
+________ {{{{{{   Factory-sealed battery notices
+______ OOOOOOO
+    
+ Batteries cannot be easily replaced by users follow up with hp
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   Laser Compliance
+______ OOOOOOO
+
+try not to touch laser parts they can harm you
+
+__________ }}
+__________ }}}
+________ {{{{{{   Telecommunications device approvals
+______ OOOOOOO
+
+
+if the country approves it you can use the device as a telephone
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   Modem notices
+______ OOOOOOO
+
+
+__________ }}
+__________ }}} U.S. modem statements
+
+this complies with part 68 of FCC rules. there is  US:AAAEQ##TXXXX. # you provide to telephone companies on computers or your modem
+
+a Applicable certLƬcatLon jack USOC = RJ11C. comes with the device
+
+there is a REN which accepts the maximun amount of phone calls, this should not exceed 5
+
+if the laptop harms the telephone network,they will contact you
+they may change the system but they will notify you about it
+if trouble call technical support
+
+make sure your laptop does not disable wire alarm equipment
+
+when you send a message it must be sent with headers
+
+
+__________ }}
+__________ }}} U.S. modem declarations
+
+this modem
++---------------+-------------------+
+| manufacturer  | agere systems     |
++---------------+-------------------+
+| labeling id # | US:AGSMD01BDELPHI |
++---------------+-------------------+
+|           COMPLIES                |
++---------------+-------------------+
+| FCC           | 47                |
++---------------+-------------------+
+
+__________ }}
+__________ }}}   Canada modem statements
+
+meets it
+
+Japan modem statements
+refer to the pdf related to see symbol for japan approval
+
+__________ }}
+__________ }}}  New Zealand
+
+Use of pulse dialing when it leads to errors users should not call
+Telecom faults system
+
+Voice support
+    
+    cannot call telecom 111 emergency
+
+__________ }}
+__________ }}} Macrovision Corporation notice
+
+cannot reverse engineer product
+
+
+_ OOOOOOOOOOOOOOO____%   2 Safety notices
+__ OOOOOOOOOOOOOO___%
+
+
+
+__________ }}
+__________ }}}
+________ {{{{{{    Important safety information
+______ OOOOOOO
+
+read safety &  Comfort guide
+
+never operate while open
+never service while plugged
+always disconnect the modem cable
+use no 26 awg or larger line cord
+do not plug a modem or telephone cable into the RJ-45 network jack
+
+if there is a voltage select switch of 115 to 230 V keep it there
+
+not been evalute for an IT power connection (AC distrobution with no connection to earth)
+
+
+__________ }}
+__________ }}}
+________ {{{{{{    Heat-related safety warning notice
+______ OOOOOOO
+
+use on a hard desk only
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   Potential safety conditions notice
+______ OOOOOOO
+
+if you hear cracking hissing or popping or strong odor or smoke from the computer
+hardware failed in a safe manner. this is also a safety issue
+turn off the computer and remove the ac adapter
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   Installation conditions
+______ OOOOOOO
+
+disconnect power before removing enclosure
+
+Acoustics notice
+Sound pressure level (LpA) is far below 70dB(A)
+    more info:  http://www.hp.com/go/ted,
+    
+__________ }}
+__________ }}}
+________ {{{{{{   Battery notices
+______ OOOOOOO
+
+handle properly
+only use HP batteries
+it can explode if used incorrectly
+do not swallow
+keep out of low pressure and away from kids
+
+Fan
+
+stay away from fan
+
+Laser safety
+
+if there is a cd drive or a fiber optic transreceiver
+dont try to fix things
+
+__________ }}
+__________ }}}
+________ {{{{{{   Power supply and power cord set requirements
+______ OOOOOOO
+    
+__________ }}
+__________ }}} Power supply class I grounding requirements
+
+connect to a grounding terminal
+
+
+__________ }}
+__________ }}}  Power supply requirements
+
+the power daemon is smart and switches to the appropraiate voltages
+do not remove the grounding pin
+power cords in other countries must meet requiremnets in other countries
+
+should come from a good agency and should not be kinked
+
+__________ }}
+__________ }}} Power cord notice
+
+if you didnt get one buy the right one
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   TV antenna connectors protection
+______ OOOOOOO
+
+make sure cable or antenna is electrically grounded
+
+__________ }}
+__________ }}} Lightning protection
+
+when there is lightning unplug from the wall
+
+Travel notice
+    do not attempt to power with a voltage converter kit
+
+    
+
+
+
+_ OOOOOOOOOOOOOOO____%   3 Environmental notices
+__ OOOOOOOOOOOOOO___%
+
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   Electronic hardware, packaging and battery recycling
+______ OOOOOOO
+
+recycle please
+
+__________ }}
+__________ }}}
+________ {{{{{{   Disposal of waste equipment by users
+______ OOOOOOO
+
+this product has the ENERGY STAR® &ertLƬcatLon (select products only)
+it should deactivate in 15 minutes
+
+__________ }}
+__________ }}}
+________ {{{{{{   Chemical substances
+______ OOOOOOO
+
+committed to providing customers with info about chemical substances
+
+
+__________ }}
+__________ }}}
+________ {{{{{{   Mercury statement
+______ OOOOOOO
+
+it might have it in the LCD
+
+Perchlorate material–special handling may apply
+
+
+
+
+__________ }}
+__________ }}}
+________ {{{{{{
+______ OOOOOOO
+____ OOOOOOOOOO______}
+___ OOOOOOOOOOOO_____{{
+__ OOOOOOOOOOOO_____(..)    HP Notebook Hard Drives & Solid State Drives
+_ OOOOOOOOOOOOOOO_____%     Identifying, Preventing, Diagnosing and
+                            Recovering from Drive Failures
+_ OOOOOOOOOOOOOOO____%      Care and Maintenance Measures
+__ OOOOOOOOOOOOOO___%
+___ OOOOOOOOOOOO
+____ OOOOOOOOOO
+
+
+__________ }}
+__________ }}}
+________ {{{{{{ Identifying, Preventing, Diagnosing, and Recovering from
+Drive Failures
+______ OOOOOOO
+
+
+__________ }}
+__________ }}}  Symptoms
+
+Traced to connector,shocks,software
+
+__________ }}
+__________ }}} Connector issues
+
+for you SSD issues are
+    its no longer recognized by the notebook
+    you get a POST message saying immient drive failure
+    it restarts when windows OS is running
+    
+    
+__________ }}
+__________ }}} Shock events
+
+for hard drives, its the results for a significant bump
+
+__________ }}
+__________ }}} Software Issues
+
+sometimes software issues mimic a failed hard drive
+ File corruption
+ File fragmentation
+ Read errors
+
+
+__________ }}} File Corruption
+
+very difficult to detect
+this happens where there is an incomplete write to the HDD, the OS then encounters
+incomplete data and marks it as a bad drive, if this continues you get blue screens
+
+__________ }}} File Fragmentation READ errors
+
+only on HDD
+
+anything else refer to your OS
+
+
+__________ }}
+__________ }}}  Hard Drive / Solid State Drive Troubleshooting
+
+document errors and symptoms
+
+--------------------------------------------------------------------------------
+run f2 quick/short diagnostic test        [a]
+--------------------------------------------------------------------------------
+is drive recognized by diagnotics
+--------------------------------------------------------------------------------
+no:try reseating drive check for        |
+loose connectors                        |yes:does it fail diagnostic test [d]
+--------------------------------------------------------------------------------
+does BIOS see drive? |                  |yes:replace drive or contact customer
+                                        |support for replacement [b][c]
+--------------------------------------------------------------------------------
+yes:[a]              |no[b] [c]         |no:Extensive/ Long Diagnostic test runs
+--------------------------------------------------------------------------------
+[c]Verify Intel Matrix Storage and 3D   |[d]
+                                        | yes:[b][c]
+Drive Guard drivers are installed on    | no:Drive does not need to be replaced
+image and latest firmware for           |(OS software or other hardware problems)
+product model installed                 |
+
+
+
+__________ }}
+__________ }}}
+________ {{{{{{  Hard Drive (HDD) & Solid State Drive (SSD) Diagnostics
+______ OOOOOOO
+
+
+__________ }}
+__________ }}} HP Diagnostics
+
+f2 when the computer boots
+the short basic and long/Full versions are combine into one
+
+Note: The f2 Self-Test is available through the commercial notebook system BIOS. Please visit the HP
+Web site at http://welcome.hp.com/country/us/en/support.html to download the latest BIOS for your
+product. See the UEFI section below to install the more advanced diagnostics.
+
+
+
+__________ }}
+__________ }}}  Advanced Diagnostics – Unified Extensible Firmware Interface (UEFI)
+
+ HP System Diagnostics UEFI or HP UEFI Support Environment
+ to download
+ http://welcome.hp.com/country/us/en/support.html
+ 
+ to cancel press esc key
+ http://h20000.www2.hp.com/bizsupport/TechSupport/Document.jsp?lang=en&cc=us&objectID=c01443317&
+ 
+ 
+ 
+ __________ }}
+__________ }}} HP 3D Drive Guard
+ shock is most likely when laptop is moved, the HDD 3D Guard header is being moved
+ not needed for SSD
+ 
+ 
+ 
+ __________ }}
+__________ }}}  Firmware & Product Updates
+
+its important to check for firmware updats
+Download HDD firmware here
+
+http://www8.hp.com/us/en/support-drivers.html
+
+
+__________ }}
+__________ }}} Intel Matrix Storage Technology driver
+
+used for hard drives with Serial ATA HDD
+
+http://www8.hp.com/us/en/support-drivers.html
+
+__________ }}
+__________ }}} Installing SATA
+
+SATA Native Mode is a storage interface technology that provides up to 150MB/sec transfer rate for disk traffic
+
+Procedures for adding SATA drivers to RIS (Remote Installation Service) installation points include:
+ Adding SATA drivers to installation CDs, building an image, and switching to SATA AHCI mode
+ Using Sysprep with SATA in AHCI or NATIVE mode
+Adding SATA drivers using WinPE can be located at the following URL:
+http://bizsupport2.austin.hp.com/bc/docs/support/SupportManual/c01600726/c01600726.pdf
+
+
+__________ }}
+__________ }}} Care and Maintenance Measures
+
+Preparing Advanced Format HDDs for Microsoft Windows installations
+HDD hav
+
+
+__________ }}
+__________ }}} Hard Drive Mounting Bracket
+
+make sure the HDD  is secured properly
+
+__________ }}
+__________ }}}  HP CMI – Client Management Interface
+
+there should be SMART health  monitoring in the management console portfolio
+This support is
+included in all editions of HP Client Automation and HP Client Manager 7.0 from Symantec
+
+http://www.hp.com/go/clientautomation
+
+
+__________ }}
+__________ }}}  Additional HP Recommendations for Optimizing Performance on
+Products with Older Operating Systems
+
+have the latest BIOS firmware
+make sure the hard drive is not used too much
+
+Use the Microsoft Recovery Console periodically to run the chkdsk /p /r commands in order to
+check your hard drive for any errors, bad sectors, and/or recovery of readable information
+
+Windows XP - http://support.microsoft.com/default.aspx?scid=kb;en-us;314058&Product=winxp
+Windows 2000:  http://support.microsoft.com/default.aspx?scid=kb;EN-US;229716
+
+__________ }}
+__________ }}}
